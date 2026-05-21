@@ -6,6 +6,8 @@ A production-ready AI chat application with real-time streaming. Built with Next
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GrahamduesCN/ai-chat-saas)
+
 ---
 
 ## Preview
