@@ -104,6 +104,14 @@ colors: {
 
 Wrap the chat page with your auth provider (NextAuth.js, Clerk, etc.).
 
+## Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [ai-agent-starter](https://github.com/GrahamduesCN/ai-agent-starter) | The AI provider framework this is built on |
+| [dev-cli-kit](https://github.com/GrahamduesCN/dev-cli-kit) | CLI toolkit for project scaffolding |
+| [nextjs-saas-starter](https://github.com/GrahamduesCN/nextjs-saas-starter) | The SaaS starter this template extends |
+
 ## License
 
 MIT — use it for your SaaS, your clients, or your side project.
